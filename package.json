@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wang2510/ReactTutor.git"
+    "url": "git+https://github.com/matthewzhangx/ReactTutor.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wang2510/ReactTutor/issues"
+    "url": "https://github.com/matthewzhangx/ReactTutor/issues"
   },
-  "homepage": "https://github.com/wang2510/ReactTutor#readme"
+  "homepage": "https://github.com/matthewzhangx/ReactTutor#readme"
 }
