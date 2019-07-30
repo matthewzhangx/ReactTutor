@@ -4,8 +4,10 @@
     <list default="true" id="8e7c1a87-debd-4d54-b0e0-20370823953f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/button-events/EventDemo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/button-events/EventDemo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/redux/createRedux.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/redux/createRedux.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +57,11 @@
       <updated>1549778201099</updated>
       <workItem from="1549778208309" duration="22000" />
       <workItem from="1555803145091" duration="817000" />
-      <workItem from="1564133790343" duration="6799000" />
+      <workItem from="1564133790343" duration="13256000" />
+      <workItem from="1564292604041" duration="449000" />
+      <workItem from="1564307377816" duration="714000" />
+      <workItem from="1564392386277" duration="998000" />
+      <workItem from="1564494406242" duration="1095000" />
     </task>
     <servers />
   </component>
@@ -67,7 +73,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

@@ -10,7 +10,7 @@ class EventDemo extends React.Component {
       this.handleSubmit = this.handleSubmit.bind(this);
       this.handleClear = this.handleClear.bind(this);
       this.handleInput = this.handleInput.bind(this);
-      console.log(props.myName);
+      //console.log(props.myName);
 
       this.student = {
         name: 'wang',
@@ -25,7 +25,7 @@ class EventDemo extends React.Component {
   }
 
   handleSubmit() {
-    console.log(this.state.count);
+    //console.log(this.state.count);
     this.setState(state => ({
       count: state.count + 1,
       newName: 'Yang'
@@ -33,7 +33,7 @@ class EventDemo extends React.Component {
   }
 
     handleClear() {
-        console.log(this.state.count);
+        //console.log(this.state.count);
         this.setState(state => ({
             count: 0,
             newName: 'newName'
@@ -41,14 +41,14 @@ class EventDemo extends React.Component {
     }
 
     handleInput(value) {
-        console.log(value);
+        //console.log(value);
         this.setState(state => ({
             inputValue: value,
         }));
     }
 
     render() {
-      console.log(this.props.simpleReducer.reduxName);
+      //console.log(this.props.simpleReducer.reduxName);
       let a = this.student.name;
       return (
        <div>

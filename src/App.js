@@ -11,6 +11,7 @@ class App extends Component {
     return (
 
       <div className="App">
+          <div> {this.props.simpleReducer.reduxName} </div>
           <Nav></Nav>
        <EventDemo
         myName = 'Jason'
@@ -21,8 +22,8 @@ class App extends Component {
 }
 
 const mapStateToProps = state => ({
-  ...state
- })
+    simpleReducer: state.simpleReducer.reduxName
+})
 
 
 const mapDispatchToProps = dispatch => ({
